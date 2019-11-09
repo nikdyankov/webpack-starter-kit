@@ -2,9 +2,9 @@
   "name": "webpack-starter-kit",
   "version": "1.0.0",
   "description": "Starter kit for Webpack based projects",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
