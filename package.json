@@ -1,0 +1,27 @@
+{
+  "name": "webpack-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for Webpack based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikdyankov/webpack-starter-kit.git"
+  },
+  "keywords": [
+    "webpack",
+    "starter kit"
+  ],
+  "author": "Nikolay Dyankov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikdyankov/webpack-starter-kit/issues"
+  },
+  "homepage": "https://github.com/nikdyankov/webpack-starter-kit#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
