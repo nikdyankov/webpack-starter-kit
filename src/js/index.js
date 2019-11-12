@@ -1,0 +1,1 @@
+$(".js-heading").text("I have been changed by jQuery");
